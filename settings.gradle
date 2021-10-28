@@ -1,0 +1,4 @@
+rootProject.name = 'incubator-component'
+
+include 'scaffold-module'
+

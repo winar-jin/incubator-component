@@ -1,0 +1,26 @@
+*.un~
+.gradle
+.settings
+*.swp
+
+# intellij config files
+*.iml
+*.ipr
+*.iws
+.idea
+
+# eclipse config files
+.classpath
+.project
+
+# android studio config files
+local.properties
+
+**/build
+bin
+out
+classes
+
+.vagrant
+.DS_Store
+.venv
